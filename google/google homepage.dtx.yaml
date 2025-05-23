@@ -1,0 +1,4 @@
+steps:
+  - open:
+      url: https://google.co.uk
+  - log: Done :)
